@@ -16,7 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    
+    //手有点抖why？
+    NSLog(@"现在开始开源,开源，开源！");
 }
 
 @end
